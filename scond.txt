@@ -10,5 +10,6 @@ Email Address :	test123@gmail.com
 IP Address : 192.168.100.5
 IP Address : 192.168.100.5
 This is some NON PII commit
-jin-kazama@live.com
+jin-kazama@hotmail.com
+jin-kazama@gmail.com
 
